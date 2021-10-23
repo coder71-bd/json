@@ -55,11 +55,11 @@
     },
     {
       "id": "5733540362",
-      "name": "Sonsing",
-      "image": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
+      "name": "SBL Abrotanum Dilution 30 CH",
+      "image": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600224583/cropped/hpw5p84xux2sautxwscn.png",
       "price": 1625,
-      "short_desc": "Curabitur in libero ut massa volutpat convallis.",
-      "detail_desc": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+      "short_desc": "SBL Abrotanum Dilution helps against metastasis",
+      "detail_desc": "SBL Abrotanum Dilution improves appetite and is useful against weakness in lower extremity. It improves rheumatism after stopping diarrhoea. It helps in influenza, nosebleed and hydrocele in boys. It provides relief from weakness in limbs and back pain.",
       "rating": 4,
       "inStock": false
     }
@@ -67,63 +67,62 @@
   "eye": [
     {
       "id": "3249837881",
-      "name": "Redhold",
-      "image": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
+      "name": "Manual Keratometer",
+      "image": "https://www.verywellhealth.com/thmb/j4oD_H6dbiC61Tq2VShrb-o2P44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manual_keratometer2-56a9cf833df78cf772aab356.jpg",
       "price": 1300,
-      "short_desc": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. ",
-      "detail_desc": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+      "short_desc": "A manual keratometer is used to determine how flat or steep the cornea is",
+      "detail_desc": "A manual keratometer is used to determine how flat or steep the cornea is. It is often used to measure and diagnose conditions such as astigmatism, keratoconus, corneal scarring and corneal distortion. A keratometer is commonly used to fit contact lenses as well.",
       "rating": 2,
       "inStock": true
     },
     {
       "id": "3428288564",
-      "name": "Tampflex",
-      "image": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
+      "name": "Autorefractor",
+      "image": "https://4.imimg.com/data4/EB/KC/MY-19073775/autorefractor-keratometer-auto-500x500.jpg",
       "price": 650,
-      "short_desc": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. ",
-      "detail_desc": "Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+      "short_desc": "An autorefractor is a machine used to measure a person's refractive error",
+      "detail_desc": "An autorefractor is a machine used to measure a person's refractive error and prescription for eyeglasses or contact lenses. This is achieved by measuring how light is changed as it enters a person's eye.The automated refraction technique is quick, simple and painless. The patient takes a seat and places their chin on a rest. One eye at a time, they look into the machine at a picture inside. The picture moves in and out of focus as the machine takes readings to determine when the image is on the retina.Several readings are taken which the machine averages to form a prescription. No feedback is required from the patient during this process.",
       "rating": 4,
       "inStock": true
     },
     {
       "id": "1011745348",
-      "name": "Domainer",
-      "image": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
+      "name": "Azelastine eye drops",
+      "image": "https://img.medscapestatic.com/pi/features/drugdirectory/octupdate/SOM00910.jpg",
       "price": 620,
-      "short_desc": "Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis",
-      "detail_desc": "Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla.",
-      "rating": 5,
+      "short_desc": "Azelastine drops relieve eye itching and redness associated with allergies.",
+      "detail_desc": "Allergic conjunctivitis causes red, watery, itchy eyes. It is caused by exposure to irritants such as plant pollens, pet fur, cosmetics or house dust mite. Seasonal allergic conjunctivitis occurs at certain times in a year, a common cause being an allergy to pollen in the hay fever season. Perennial allergic conjunctivitis persists throughout the year. This is commonly due to an allergy to house dust mite or animal hair. Azelastine is an antihistamine; it helps relieve allergic itchiness by blocking the release of a chemical called histamine, which is produced by the body as part of an allergic reaction.",
       "inStock": true
     }
   ],
   "dental": [
     {
       "id": "7309272315",
-      "name": "Sonair",
-      "image": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
+      "name": "Ibuprofen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97pbFBL6S5_XpawoZ3OwDoHgBguEwB51piw&usqp=CAU",
       "price": 787,
-      "short_desc": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, ",
-      "detail_desc": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante.",
+      "short_desc": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID)",
+      "detail_desc": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID). It works by reducing hormones that cause inflammation and pain in the body. Ibuprofen is used to reduce fever and treat pain or inflammation caused by many conditions such as headache, toothache, back pain, arthritis, menstrual cramps, or minor injury.",
       "rating": 5,
       "inStock": true
     },
     {
       "id": "4224692791",
-      "name": "Tres-Zap",
-      "image": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
+      "name": "Dental Intraoral Cameras",
+      "image": "https://5.imimg.com/data5/TB/LS/MY-4186358/dental-intraoral-camera-500x500.jpg",
       "price": 890,
-      "short_desc": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, ",
-      "detail_desc": "Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",
+      "short_desc": "Designed to allow clinicians to capture and display digital images from inside a patient’s mouth",
+      "detail_desc": "Designed to allow clinicians to capture and display digital images from inside a patient’s mouth, intraoral cameras are a valuable tool for patient education and case documentation. Shaped like a small wand, many dental intraoral cameras are highly portable and easily connect to a computer wirelessly, via USB or via a docking station. Most commonly equipped with LEDs, these digital cameras can capture images without the need for external lighting. Patients do not always accept treatment they cannot understand, but an intraoral camera allows them to see what you see. A problem such as a fractured tooth can be easier to spot and impossible to ignore when it is magnified on a computer monitor or TV screen. While designed for intraoral imaging, some cameras also can capture extraoral full face images for patient records.",
       "rating": 5,
       "inStock": false
     },
     {
       "id": "3128885346",
-      "name": "Veribet",
+      "name": "Dental Alginate Mixers",
       "image": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
       "price": 846,
-      "short_desc": "Cras in purus eu magna vulputate luctus.",
-      "detail_desc": "Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+      "short_desc": "Dental alginate mixers are used to create a smooth, evenly mixed alginate impression material.",
+      "detail_desc": "Dental alginate mixers are used to create a smooth, evenly mixed alginate impression material. These systems make using alginate materials simpler and easier. These use vibration or rotation to mix the alginate powder and water as per the manufacturer instructions. If you use alginate impression materials, having an alginate mixer in your practice will save time and improve your impression results",
       "rating": 2,
       "inStock": false
     }
